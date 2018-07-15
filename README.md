@@ -4,3 +4,6 @@ The project analyzes titanic dataset focusing on following topics:
 - Were the lower class passengers unfairly treated, which led to more fatality?
 - Were young childeren and women more likely to have survived the accident?
 
+## File Description
+titanic-data.csv: Titanic dataset
+Project_Titanic.ipynb: Project ipython notebook file
